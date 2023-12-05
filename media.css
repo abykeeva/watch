@@ -1,0 +1,25 @@
+@media (max-width: 320px) {
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+  }
+  .text-content h1 {
+    font-size: 100px;
+  }
+  .lin img {
+    width: 80%;
+    /* margin-left: 200px; */
+  }
+  .img-bg img {
+    width: 80%;
+  }
+  .img-bg {
+    width: 315px;
+  }
+  .img-descr {
+    max-width: 300px;
+  }
+  .lin {
+    max-width: 300px;
+  }
+}
